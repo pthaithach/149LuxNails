@@ -1,0 +1,34 @@
+{
+    "info": {
+        "store"     : "Lux Nails",
+        "slug"      : "lux-nails-spa",
+        "phone"     : "+820 946-4300",
+        "email"     : "luxnailsllc2022@gmail.com",
+        "address"   : "457 E Betteravia Rd Santa Maria Califonia 93454",
+        "time_1"    : "Mon - Sat : 10:00 AM - 07:30 PM",
+        "time_2"    : "Sun: close"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/luxnails.ca",
+        "instagram" :   "https://www.instagram.com/lux.nails.llc/",
+        "google"    :   "https://goo.gl/maps/LB7HQRcyZnBnndpU9", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDUzMjh8bHV4bmFpbHMxOHxDQV8wNzgxOHwxYzYzYjRiMzNiOTQ1YjI0MjdmOGYyY2E1OTQ3YjY3MQ==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14312.54655746489!2d-80.101902!3d26.2572284!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x419117a7b576d656!2sLS%20Nails%20%26%20Spa!5e0!3m2!1svi!2s!4v1661490479999!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#E04137",
+        "primary_light"         :   "#ffe0de",
+        "primary_hover"         :   "#ff716d",
+        "secondary"             :   "#1B3E46",
+        "secondary_hover"       :   "#386270",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "off",
+    "path_image":   "img"
+}
+
