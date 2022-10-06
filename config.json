@@ -1,5 +1,5 @@
 {
-    "info": {
+    "data": {
         "store"     : "Lux Nails",
         "slug"      : "lux-nails-spa",
         "phone"     : "+820 946-4300",
@@ -29,6 +29,7 @@
         "text_title_hover"      :   "#90C73E"
     },
     "debug":        "off",
-    "path_image":   "img"
+    "path_image":   "img",
+    "domain":       "https://luxnailsm.com/"
 }
 
