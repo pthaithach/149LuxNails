@@ -11,10 +11,13 @@
     "url":  {
         "facebook"  :   "https://www.facebook.com/luxnails.ca",
         "instagram" :   "https://www.instagram.com/lux.nails.llc/",
-        "google"    :   "https://goo.gl/maps/LB7HQRcyZnBnndpU9", 
+        "google"    :   "https://goo.gl/maps/hcoWCwMu9QKBNPMm6", 
         "booking"   :   "https://www.lldtek.com/salon/appt/NDUzMjh8bHV4bmFpbHMxOHxDQV8wNzgxOHwxYzYzYjRiMzNiOTQ1YjI0MjdmOGYyY2E1OTQ3YjY3MQ==",
-        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14312.54655746489!2d-80.101902!3d26.2572284!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x419117a7b576d656!2sLS%20Nails%20%26%20Spa!5e0!3m2!1svi!2s!4v1661490479999!5m2!1svi!2s"
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13085.22794957519!2d-120.4263104!3d34.9238371!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2f02fa9ea8cc8ae5!2sLux%20Nails!5e0!3m2!1svi!2s!4v1665117894717!5m2!1svi!2s"
     },
+
+    
+    
     "color": {
         "primary"               :   "#E04137",
         "primary_light"         :   "#ffe0de",
@@ -28,7 +31,7 @@
         "text_title"            :   "#429D64",
         "text_title_hover"      :   "#90C73E"
     },
-    "debug":        "off",
+    "debug":        "on",
     "path_image":   "img",
     "domain":       "https://luxnailsm.com/"
 }

@@ -2438,3 +2438,22 @@ button:focus{
 .btn-hover.color-1 {
     background-image: linear-gradient(48deg, var(--secondary), var(--secondary-hover), var(--primary), var(--primary-hover));
 }
+
+.display-table{display: table-row-group}
+.display-row{display: table-row}
+.display-col{display: table-cell}
+#menu_service[column="1"] .display-table{border-bottom: 1px dashed rgb(183, 183, 183);}
+#menu_service[column="1"] .service_item .service_name{
+    font-size: 16px!important; font-family: cursive;
+}
+#menu_service[column="1"] .service_item .service_price{
+    font-size: 16px!important; font-family: cursive; color:var(--primary);
+}
+
+#menu_service[column="2"] .service_item .service_name{
+    font-size: 16px!important; font-family: cursive;
+}
+#menu_service[column="2"] .service_item .service_price{
+    font-size: 16px!important; font-family: cursive; color:var(--primary);
+}
+#menu_service[column="2"] .service_item:nth-child(even){border-right: none!important;}
